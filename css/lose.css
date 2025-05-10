@@ -1,0 +1,27 @@
+.text-lose {
+    color: red;
+    font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.heading-lose {
+    color: red;
+    font-size: 32px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#bold {
+    font-weight: bold;
+}
+
+#capitalize {
+    text-transform: uppercase;
+}
+
+img {
+    transition: transform 0.3s ease-in-out;
+}
+
+li {
+    text-decoration: underline;
+}
